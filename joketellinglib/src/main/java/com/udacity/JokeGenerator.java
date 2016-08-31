@@ -2,6 +2,6 @@ package com.udacity;
 
 public class JokeGenerator {
     public static String getJoke(){
-        return "derp from lib";
+        return "What do you call a boomerang that won't come back? A stick.";
     }
 }
